@@ -25,3 +25,14 @@
   - In the get method user_id is passed and the representation of the user_id of the specified field is retrieved from the server data. 
   ## delete
   - In the delete method user_id is passed the representation of the specified field is erased from the server data
+  
+  # Screenshots:
+  
+  ## POST
+  ![create user](https://raw.githubusercontent.com/g-m-b/Full-Throttle-Intern-Assignment/master/screenshots/create_user.png)
+  
+  ## GET
+  ![get_user](https://raw.githubusercontent.com/g-m-b/Full-Throttle-Intern-Assignment/master/screenshots/get_user.png)
+  
+  ## DELETE
+  ![delete_user](https://raw.githubusercontent.com/g-m-b/Full-Throttle-Intern-Assignment/master/screenshots/delete_user.png)
